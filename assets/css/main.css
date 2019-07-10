@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none; }
 
 h1 {
-  font-size: 1.85em;
+  font-size: 3.5em;
   letter-spacing: 0.22em;
   margin: 0 0 0.525em 0; }
   h1.name {
@@ -112,11 +112,11 @@ h5, li {
   font-size: 0.85em; }
 
 h6, .biography {
-  font-size: 0.7em; }
+  font-size: 1.5em; }
 
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 1.65em; } }
+    font-size: 1.4em; } }
 sub {
   font-size: 0.8em;
   position: relative;
