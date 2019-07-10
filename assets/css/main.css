@@ -592,7 +592,7 @@ button,
   perspective: 1000px;
   position: relative;
   min-height: 100%;
-  padding: 10em;
+  padding: 1em;
   z-index: 2; }
   #wrapper > * {
     z-index: 1; }
